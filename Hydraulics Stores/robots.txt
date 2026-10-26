@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-
-# Replace the placeholder below after deploying the site to a public domain.
-Sitemap: https://YOUR-DOMAIN.example/sitemap.xml

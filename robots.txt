@@ -1,0 +1,5 @@
+
+User-agent: *
+Allow: /
+
+Sitemap: https://olwethu1789.github.io/Hydraulics-Stores-/sitemap.xml
